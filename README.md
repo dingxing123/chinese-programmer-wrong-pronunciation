@@ -1,8 +1,8 @@
 ### Words Commonly Mispronounced by Chinese Programmers
 ### 中国程序员容易发音错误的单词(点击🔊收听正确读音)
 
-| 单词 | 正确发音（英音）| 正确发音（美音）| 错误发音 |
-| --- | ----------- | ----------- | ---------- |
+| 单词 | 正确发音（英音）| 正确发音（美音）| 错误发音 |来源|
+| --- | ----------- | ----------- | ---------- | ---------- |
 | access | [🔊](https://dict.youdao.com/dictvoice?audio=access&type=1)  /'ækses/ | [🔊](https://dict.youdao.com/dictvoice?audio=access&type=2)  /ˈækses/ |  ❌ /ək'ses/ |
 | Adobe | [🔊](https://dict.youdao.com/dictvoice?audio=Adobe&type=1)  /ə'dəʊbi/ | [🔊](https://dict.youdao.com/dictvoice?audio=Adobe&type=2)  /ə'dəʊbi/ |  ❌ /əˈdub/ |
 | admin | [🔊](https://dict.youdao.com/dictvoice?audio=admin&type=1)  /'ædmɪn/ | [🔊](https://dict.youdao.com/dictvoice?audio=admin&type=2)  /ˈædmɪn/ |  ❌ /ɜ:d'mɪn/ |
@@ -70,7 +70,7 @@
 | miscellaneous | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=1) /ˌmɪsəˈleɪniəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=2) /ˌmɪsəˈleɪniəs/ |  |
 | module | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=1)  /'mɒdjuːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=2)  /ˈmɑːdʒuːl/ |  ❌ /'məʊdl/ |
 | nginx |      Engine X |    Engine X  |  |
-| nuget |      New Get |    New Get  |  |
+| nuget |      New Get |    New Get  | [Wiki](https://en.wikipedia.org/wiki/NuGet) |
 | null | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=1)  /nʌl/ | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=2)  /nʌl/ |  ❌ /naʊ/ |
 | obsolete | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=1) /ˈɒbsəliːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=2) /ˌɑːbsəˈliːt/ |  |
 | OS X |    OS ten |    OS ten |  ❌ /ɔs eks/ |
