@@ -70,7 +70,7 @@
 | miscellaneous | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=1) /ˌmɪsəˈleɪniəs/ | [🔊](https://dict.youdao.com/dictvoice?audio=miscellaneous&type=2) /ˌmɪsəˈleɪniəs/ |  |
 | module | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=1)  /'mɒdjuːl/ | [🔊](https://dict.youdao.com/dictvoice?audio=module&type=2)  /ˈmɑːdʒuːl/ |  ❌ /'məʊdl/ |
 | nginx |      Engine X |    Engine X  |  |
-| nuget |      New Get |    New Get  | [Wiki](https://en.wikipedia.org/wiki/NuGet) |
+| nuget |      New Get |    New Get  |  | [Wiki](https://en.wikipedia.org/wiki/NuGet) |
 | null | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=1)  /nʌl/ | [🔊](https://dict.youdao.com/dictvoice?audio=null&type=2)  /nʌl/ |  ❌ /naʊ/ |
 | obsolete | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=1) /ˈɒbsəliːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=obsolete&type=2) /ˌɑːbsəˈliːt/ |  |
 | OS X |    OS ten |    OS ten |  ❌ /ɔs eks/ |
